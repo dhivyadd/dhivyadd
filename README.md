@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhivyaDD
-- 👀 I’m interested in Technology & Science. Specifically MS Tech Stack
-- 🌱 I’m currently learning Azure & ML
+- 👀 I’m interested in Technology & Science
+- 🌱 I’m currently learning Azure & Containerization
 
 
 <!---
