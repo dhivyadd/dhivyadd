@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dhivyaDD
+- 👋 Hi, I’m @dhivyadd
 - 👀 I’m interested in Technology & Science
-- 🌱 I’m currently learning Azure & Containerization
+- 🌱 I’m currently learning to develop sustainable software
 
 
 <!---
